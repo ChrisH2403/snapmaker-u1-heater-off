@@ -109,7 +109,7 @@ the script inserts a documentation block like:
    chmod +x u1_heater_off.py
    ```
 
-3. Configure OrcaSlicer → **Post-processing scripts**
+3. Configure OrcaSlicer → **Process-Tab -> Others -> Post-processing scripts**
 
 ### Windows
 
